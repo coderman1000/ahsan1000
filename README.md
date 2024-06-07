@@ -29,19 +29,19 @@ I'm a skilled MERN (MongoDB, Express.js, React, Node.js) stack developer with a 
 - MongoDB
 - Asp.net Web API
 
-### UI/UX:
--Figma
+### UI/UX
+- Figma
 
 ### Database Engine/ORM:
--MongoDB
--MS SQL Server
--MySQL
--Dapper & Entity Framework
+- MongoDB
+- MS SQL Server
+- MySQL
+- Dapper & Entity Framework
 
 ### Software Engineering:
--Design Patterns
--UML
--Software Process Models
+- Design Patterns
+- UML
+- Software Process Models
 
 ### Code-Management Tools & Deployment Platforms
 - Git & GitHub
