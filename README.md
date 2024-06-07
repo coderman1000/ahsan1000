@@ -12,7 +12,7 @@ I'm a skilled MERN (MongoDB, Express.js, React, Node.js) stack developer with a 
 - **Name:** Ahsan Riaz
 - **Experience:** 8 years of professional development
 - **Education:** - Bachelors of Science- 4 years(Computer Science)
-                 - Masters of Science - 2 years(Computer Science)
+                 And Masters of Science - 2 years(Computer Science)
 
 ---
 
