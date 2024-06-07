@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm a passionate and dedicated MERN stack develope
 
 I'm a skilled MERN (MongoDB, Express.js, React, Node.js) stack developer with a strong foundation in creating robust and scalable web applications. My expertise lies in both front-end and back-end development, allowing me to build complete applications from the ground up.
 
-- **Name:** [Your Name]
+- **Name:** Ahsan Riaz
 - **Experience:** 8 years of professional development
-- **Education:** Bachelors of Science- 4 years(Computer Science)
-                 Masters of Science - 2 years(Computer Science)
+- **Education:** - Bachelors of Science- 4 years(Computer Science)
+                 - Masters of Science - 2 years(Computer Science)
 
 ---
 
@@ -38,15 +38,15 @@ I'm a skilled MERN (MongoDB, Express.js, React, Node.js) stack developer with a 
 - MySQL
 - Dapper & Entity Framework
 
-### Software Engineering:
-- Design Patterns
-- UML
-- Software Process Models
-
 ### Code-Management Tools & Deployment Platforms
 - Git & GitHub
 - Docker
 - Digital Ocean
+
+### Software Engineering:
+- Design Patterns
+- UML
+- Software Process Models
 ---
 
 Happy coding! 🚀
