@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**ahsan1000/ahsan1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # README for GitHub Profile
 
 Welcome to my GitHub profile! I'm a passionate and dedicated MERN stack developer, continually exploring new technologies and striving to improve my skills. Below, you'll find an overview of who I am, what I do, and how you can reach me.
@@ -121,6 +117,7 @@ I'm a skilled MERN (MongoDB, Express.js, React, Node.js) stack developer with a 
 ---
 
 Thank you for visiting my profile! I'm always open to new opportunities and collaborations. Feel free to connect with me or check out my work.
+ 
 
 ---
 
