@@ -1,6 +1,7 @@
-## Hi there 👋
-# README for GitHub Profile
+## Hi 👋, I'm Ahsan Riaz
 
+# README for GitHub Profile
+## Full Stack Developer | MERN Stack
 Welcome to my GitHub profile! I'm a passionate and dedicated MERN stack developer, continually exploring new technologies and striving to improve my skills. Below, you'll find an overview of who I am, what I do, and how you can reach me.
 
 ---
