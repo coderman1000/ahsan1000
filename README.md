@@ -1,5 +1,4 @@
-## Hi 👋, I'm Ahsan Riaz
-# Coding Excellence: Meet the Software Engineer
+## Hi 👋, I'm Ahsan Riaz. Coding Excellence: Meet the Software Engineer
 
 # Full Stack Developer | MERN Stack
 Welcome to my GitHub profile! I'm a passionate and dedicated MERN stack developer, continually exploring new technologies and striving to improve my skills. Below, you'll find an overview of who I am, and what I do.
