@@ -1,8 +1,4 @@
-Certainly! Here's an enhanced version of the README with brief descriptions of what an excellent programmer can offer under each technology:
-
----
-
-## Coding Excellence: Meet the Software Engineer 
+## Coding Excellence: Meet the Software Engineer!
 ### Hi 👋, I'm Ahsan Riaz 
 
 ## Full Stack Developer | MERN Stack
