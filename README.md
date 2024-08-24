@@ -52,6 +52,9 @@ I have a solid understanding of computer science principles and practical experi
 - **UML:** Using visual modeling to design and communicate complex software architectures effectively.
 - **Software Process Models:** Implementing efficient and adaptable development methodologies to streamline project workflows.
 
+### Some of my good projects are listed below.
+- **User Workspace(MERN):** [Applying proven design principles to NextJS application](https://github.com/coderman1000/User-Workspace).
+
 ---
 
 Happy coding! 🚀
