@@ -53,9 +53,9 @@ I have a solid understanding of computer science principles and practical experi
 - **Software Process Models:** Implementing efficient and adaptable development methodologies to streamline project workflows.
 
 ### Some of my good projects are listed below.
-- **User Workspace(MERN):** [Applying proven design principles to NextJS application](https://github.com/coderman1000/User-Workspace).
-- **Adaptive Trends Visualizer:** [Adaptive Trends Visualizer](https://github.com/coderman1000/Adaptive-Trends-Visualizer).
-- **Mirath Publishing:** [Mirath Publishing](https://github.com/coderman1000/Mirath-Publishing).
+- **Web Page Designer(MERN App):** [Offers users a comprehensive environment for managing, editing, and saving design files](https://github.com/coderman1000/HtmlLayoutDesinger).
+- **Adaptive Trends Visualizer(MERN App):** [Adaptive Trends Visualizer](https://github.com/coderman1000/Adaptive-Trends-Visualizer).
+- **Mirath Publishing(NextJS App):** [Book Store App](https://github.com/coderman1000/Mirath-Publishing).
 
 ---
 
