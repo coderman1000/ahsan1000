@@ -54,6 +54,7 @@ I have a solid understanding of computer science principles and practical experi
 
 ### Some of my good projects are listed below.
 - **User Workspace(MERN):** [Applying proven design principles to NextJS application](https://github.com/coderman1000/User-Workspace).
+- **Adaptive Trends Visualizer:** [Adaptive Trends Visualizer](https://github.com/coderman1000/Adaptive-Trends-Visualizer).
 
 ---
 
