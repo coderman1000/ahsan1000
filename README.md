@@ -53,7 +53,7 @@ I have a solid understanding of computer science principles and practical experi
 - **Software Process Models:** Implementing efficient and adaptable development methodologies to streamline project workflows.
 
 ### Some of my good projects are listed below.
-- **Data-Weave-Studio(MERN App):** [Offers users a comprehensive environment for managing, editing, and saving design files](https://github.com/coderman1000/Data-Weave-Studio).
+- **Data-Weave-Studio(MERN App):** Offers users a comprehensive environment for managing, editing, and saving design files. [Data-Weave-Studio](https://github.com/coderman1000/Data-Weave-Studio).
 - **Adaptive Trends Visualizer(MERN App):** [Adaptive Trends Visualizer](https://github.com/coderman1000/Adaptive-Trends-Visualizer).
 - **Mirath Publishing(NextJS App):** [Book Store App](https://github.com/coderman1000/Mirath-Publishing).
 
